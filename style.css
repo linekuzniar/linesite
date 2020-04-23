@@ -1,0 +1,75 @@
+body {
+  background-color: black;
+	font-family: Verdana;
+	padding: 2em;
+	line-height: 2em;
+}
+
+h1 {
+	color: white;
+	font-size: 7em;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+h2 {
+  color: white;
+	font-size: 4em;
+	text-decoration: none;
+	font-weight: bold;
+  padding: .2em;
+}
+
+h3 {
+  color: white;
+	font-size: 2em;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.link {
+	color: white;
+	font-size: 4em;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.link:hover{
+	color: rgb(102, 255, 102);
+}
+
+.linky {
+	color: white;
+	font-size: 2em;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.linky:hover{
+	color: rgb(102, 255, 102);
+}
+
+.txt {
+  font-family: monospace;
+  font-size: 1.5em;
+  color: white;
+}
+
+.txty {
+  font-family: monospace;
+  font-size: 1.25em;
+  color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+hr {
+    display: block;
+    border: 0;
+    border-top: 3px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
